@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ProzacZ, newbie programmer, blogs"
+title: "ProzacZ blog test"
 date: 2024-01-26
 ---
 
