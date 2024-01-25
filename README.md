@@ -1,2 +1,2 @@
 # ProzacZ.github.io
-blogs maybe
+paused project
